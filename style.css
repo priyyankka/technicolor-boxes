@@ -1,0 +1,16 @@
+#main{
+  background-color: black;
+  margin:0;
+}
+#part{
+  background-color: #444444;
+  margin:0 auto;
+  display:block;
+}
+.box {
+position: relative;
+z-index: 1;
+float: left;
+
+background-color: #444;
+}
